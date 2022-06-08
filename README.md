@@ -1,4 +1,4 @@
-# Primeiro-Reposit-rio
+# Primeiro-Repositorio
 Para copiar o código
 
 ```
